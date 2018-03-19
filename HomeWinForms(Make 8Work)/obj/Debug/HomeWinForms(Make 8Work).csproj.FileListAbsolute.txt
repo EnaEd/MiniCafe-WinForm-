@@ -1,0 +1,9 @@
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\HomeWinForms(Make 8Work)\HomeWinForms(Make 8Work)\bin\Debug\HomeWinForms(Make 8Work).exe.config
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\HomeWinForms(Make 8Work)\HomeWinForms(Make 8Work)\bin\Debug\HomeWinForms(Make 8Work).exe
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\HomeWinForms(Make 8Work)\HomeWinForms(Make 8Work)\bin\Debug\HomeWinForms(Make 8Work).pdb
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\HomeWinForms(Make 8Work)\HomeWinForms(Make 8Work)\obj\Debug\HomeWinForms(Make 8Work).csprojResolveAssemblyReference.cache
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\HomeWinForms(Make 8Work)\HomeWinForms(Make 8Work)\obj\Debug\HomeWinForms_Make_8Work_.Form1.resources
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\HomeWinForms(Make 8Work)\HomeWinForms(Make 8Work)\obj\Debug\HomeWinForms_Make_8Work_.Properties.Resources.resources
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\HomeWinForms(Make 8Work)\HomeWinForms(Make 8Work)\obj\Debug\HomeWinForms(Make 8Work).csproj.GenerateResource.Cache
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\HomeWinForms(Make 8Work)\HomeWinForms(Make 8Work)\obj\Debug\HomeWinForms(Make 8Work).exe
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\HomeWinForms(Make 8Work)\HomeWinForms(Make 8Work)\obj\Debug\HomeWinForms(Make 8Work).pdb
